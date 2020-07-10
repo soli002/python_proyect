@@ -1,0 +1,42 @@
+Menú principal:
+- Opción 1: ¿LLevas un estilo de vida saludable?
+- Opción 2: estadísticas de diágnostico de cáncer
+- Opción 3: estadísticas de defunción por cáncer
+
+Menú dentro de las opciones:
+Opción 1:
+- Test
+- Factores de riesgo
+
+Opción 2:
+- Número de diágnosticos de cáncer masculino:
+	Tipo de cáncer
+	Departamento
+	Año
+	
+- Número de diágnosticos de cáncer femenino:
+	Tipo de cáncer
+	Departamento
+	Año
+
+- Número de diágnosticos de cáncer por departamento:
+	Tipo de cáncer
+	Año
+	Masculino 
+	Femenino
+
+Opción 3:
+- Número de defunción por cáncer masculino:
+	Tipo de cáncer
+	Departamento
+	Año
+	
+- Número de defunción por cáncer femenino:
+	Tipo de cáncer
+	Departamento
+	Año
+- Número de defunción de cáncer departamento:
+	Tipo de cáncer
+	Año
+	Masculino 
+	Femenino
